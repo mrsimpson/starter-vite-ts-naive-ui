@@ -1,8 +1,7 @@
-# energiekosten
+# A starter for a webapp
 
-An application to calculate the actual cost of gas for consumers, taking into account government support in 2022 and 2023 in Germany.
-
-It runs on https://gaspreis.no-panic.org/ but if you want to run it locally (for example if you plan to contribute, which we would appreciate very much!), use the following instructions:
+A composition of frameworks useful for getting a webapp up and running quickly (without looking ugly).
+Components: see [package.json](package.json)
 
 ## Recommended IDE Setup
 
